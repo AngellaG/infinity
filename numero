@@ -1,0 +1,18 @@
+root@alexynior:~ git clone https://github.com/UltimateHackers/infinity.git
+Clonando en 'infinity'...
+remote: Counting objetijects:21, done
+remote:  Compressing objects: 100% (18/18), done.
+remote: Total 21  (delta 3), reused 1 (delta0), pack-reused 0
+Desempaquetando objetos: 100% (21/21), listo.
+root@alexynior:~# cd infinity/
+root@alexynior:~/infinity# pyhthon infinity.py
+
+
+[?] Enter the phone number:  948392xxx
+[?] Enter the country code: 51
+[?] Enter the magic sum: 44
+[~] Generating all the posibles combinations
+[+] 592 combination generated
+[?] Would you like to store the numbers for further processing? [Y/n] n
+[?] Would you like to sheck which ones are alive? [Y/n] n
+[~] Checking generated numbers for use info
